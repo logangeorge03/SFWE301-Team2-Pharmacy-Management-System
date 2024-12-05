@@ -21,7 +21,7 @@ public class Main {
         System.out.println("4.) Retrieve All Medication Information");
         System.out.println("5.) Manually Generate Report");
         System.out.println("6.) Retrieve Batch Information");
-        System.out.println("7.) Report Discepancies b/w Physical and Digital Inventory");
+        System.out.println("7.) Report Discrepancies b/w Physical and Digital Inventory");
         System.err.println("8.) Audit Export");
         System.out.println("q.) Exit");
     }

@@ -1,84 +1,84 @@
 MedicationName,QuantityGrams,ExpDate,BatchNumber,Supplier
-Aspirin,100.000000,2024-12-31,83,Pharma Inc.
-Ibuprofen,200.000000,2025-06-30,84,HealthCorp
-Paracetamol,150.000000,2023-11-15,85,MedSupply
-Amoxicillin,250.000000,2024-01-20,86,Pharma Inc.
-Cetirizine,300.000000,2025-03-10,87,HealthCorp
-Metformin,400.000000,2024-09-25,88,Pharma Inc.
-Lisinopril,500.000000,2025-12-05,89,HealthCorp
-Atorvastatin,600.000000,2023-08-30,90,MedSupply
-Omeprazole,700.000000,2024-07-15,91,Pharma Inc.
-Simvastatin,800.000000,2025-02-20,92,HealthCorp
-Levothyroxine,900.000000,2023-10-10,93,MedSupply
-Gabapentin,1000.000000,2024-11-05,94,Pharma Inc.
-Hydrochlorothiazide,1100.000000,2025-01-25,95,HealthCorp
-Amlodipine,1200.000000,2023-12-15,96,MedSupply
-Metoprolol,1300.000000,2024-03-30,97,Pharma Inc.
-Losartan,1400.000000,2025-04-10,98,HealthCorp
-Azithromycin,1500.000000,2023-09-20,99,MedSupply
-Albuterol,1600.000000,2024-06-05,100,Pharma Inc.
-Gabapentin,1700.000000,2025-07-15,101,HealthCorp
-Prednisone,1800.000000,2023-11-25,102,MedSupply
-Fluconazole,1900.000000,2024-10-20,103,Pharma Inc.
-Doxycycline,2000.000000,2025-05-30,104,HealthCorp
-Carbamazepine,2100.000000,2023-12-25,105,MedSupply
-Ketoconazole,2200.000000,2024-08-15,106,Pharma Inc.
-Ranitidine,2300.000000,2025-03-05,107,HealthCorp
-Tacrolimus,2400.000000,2023-11-10,108,MedSupply
-Cyclosporine,2500.000000,2024-09-20,109,Pharma Inc.
-Oseltamivir,2600.000000,2025-06-25,110,HealthCorp
-Acyclovir,2700.000000,2023-10-15,111,MedSupply
-Risperidone,2800.000000,2024-07-10,112,Pharma Inc.
-Methotrexate,2900.000000,2025-04-20,113,HealthCorp
-Terbinafine,3000.000000,2023-12-05,114,MedSupply
-Iron,3100.000000,2024-08-25,115,Pharma Inc.
-Estrogen,3200.000000,2025-05-15,116,HealthCorp
-Vitamin D,3200.000000,2023-11-30,117,MedSupply
-Calcium,3400.000000,2024-09-10,118,Pharma Inc.
-Furosemide,3500.000000,2025-06-20,119,HealthCorp
-Diphenhydramine,3600.000000,2023-10-05,120,MedSupply
-Ciprofloxacin,3700.000000,2024-07-25,121,Pharma Inc.
-Naproxen,3800.000000,2025-04-10,122,HealthCorp
-Aspirin,3900.000000,2024-12-31,123,Pharma Inc.
-Ibuprofen,4000.000000,2025-06-30,124,HealthCorp
-Paracetamol,4100.000000,2023-11-15,125,MedSupply
-Amoxicillin,4200.000000,2024-01-20,126,Pharma Inc.
-Cetirizine,4300.000000,2025-03-10,127,HealthCorp
-Metformin,4400.000000,2024-09-25,128,Pharma Inc.
-Lisinopril,4500.000000,2025-12-05,129,HealthCorp
-Atorvastatin,4600.000000,2023-08-30,130,MedSupply
-Omeprazole,4700.000000,2024-07-15,131,Pharma Inc.
-Simvastatin,4800.000000,2025-02-20,132,HealthCorp
-Levothyroxine,4900.000000,2023-10-10,133,MedSupply
-Gabapentin,5000.000000,2024-11-05,134,Pharma Inc.
-Hydrochlorothiazide,5100.000000,2025-01-25,135,HealthCorp
-Amlodipine,5200.000000,2023-12-15,136,MedSupply
-Metoprolol,5300.000000,2024-03-30,137,Pharma Inc.
-Losartan,5400.000000,2025-04-10,138,HealthCorp
-Azithromycin,5500.000000,2023-09-20,139,MedSupply
-Albuterol,5600.000000,2024-06-05,140,Pharma Inc.
-Gabapentin,5700.000000,2025-07-15,141,HealthCorp
-Prednisone,5800.000000,2023-11-25,142,MedSupply
-Fluconazole,5900.000000,2024-10-20,143,Pharma Inc.
-Doxycycline,6000.000000,2025-05-30,144,HealthCorp
-Carbamazepine,6100.000000,2023-12-25,145,MedSupply
-Ketoconazole,6200.000000,2024-08-15,146,Pharma Inc.
-Ranitidine,6300.000000,2025-03-05,147,HealthCorp
-Tacrolimus,6400.000000,2023-11-10,148,MedSupply
-Cyclosporine,6500.000000,2024-09-20,149,Pharma Inc.
-Oseltamivir,6600.000000,2025-06-25,150,HealthCorp
-Acyclovir,6700.000000,2023-10-15,151,MedSupply
-Risperidone,6800.000000,2024-07-10,152,Pharma Inc.
-Methotrexate,6900.000000,2025-04-20,153,HealthCorp
-Terbinafine,7000.000000,2023-12-05,154,MedSupply
-Iron,7100.000000,2024-08-25,155,Pharma Inc.
-Estrogen,7200.000000,2025-05-15,156,HealthCorp
-Vitamin D,7300.000000,2023-11-30,157,MedSupply
-Calcium,7400.000000,2024-09-10,158,Pharma Inc.
-Furosemide,7500.000000,2025-06-20,159,HealthCorp
-Diphenhydramine,7600.000000,2023-10-05,160,MedSupply
-Ciprofloxacin,7700.000000,2024-07-25,161,Pharma Inc.
-Naproxen,7800.000000,2025-04-10,162,HealthCorp
-Acetaminophen,1000.000000,2022-12-31,163,Automatic Restock
-Calcium Carbonate,1000.000000,2022-12-31,164,Automatic Restock
-Loratadine,1000.000000,2022-12-31,165,Automatic Restock
+Aspirin,100.000000,2024-12-31,0,Pharma Inc.
+Ibuprofen,200.000000,2025-06-30,1,HealthCorp
+Paracetamol,150.000000,2023-11-15,2,MedSupply
+Amoxicillin,250.000000,2024-01-20,3,Pharma Inc.
+Cetirizine,300.000000,2025-03-10,4,HealthCorp
+Metformin,400.000000,2024-09-25,5,Pharma Inc.
+Lisinopril,500.000000,2025-12-05,6,HealthCorp
+Atorvastatin,600.000000,2023-08-30,7,MedSupply
+Omeprazole,700.000000,2024-07-15,8,Pharma Inc.
+Simvastatin,800.000000,2025-02-20,9,HealthCorp
+Levothyroxine,900.000000,2023-10-10,10,MedSupply
+Gabapentin,1000.000000,2024-11-05,11,Pharma Inc.
+Hydrochlorothiazide,1100.000000,2025-01-25,12,HealthCorp
+Amlodipine,1200.000000,2023-12-15,13,MedSupply
+Metoprolol,1300.000000,2024-03-30,14,Pharma Inc.
+Losartan,1400.000000,2025-04-10,15,HealthCorp
+Azithromycin,1500.000000,2023-09-20,16,MedSupply
+Albuterol,1600.000000,2024-06-05,17,Pharma Inc.
+Gabapentin,1700.000000,2025-07-15,18,HealthCorp
+Prednisone,1800.000000,2023-11-25,19,MedSupply
+Fluconazole,1900.000000,2024-10-20,20,Pharma Inc.
+Doxycycline,2000.000000,2025-05-30,21,HealthCorp
+Carbamazepine,2100.000000,2023-12-25,22,MedSupply
+Ketoconazole,2200.000000,2024-08-15,23,Pharma Inc.
+Ranitidine,2300.000000,2025-03-05,24,HealthCorp
+Tacrolimus,2400.000000,2023-11-10,25,MedSupply
+Cyclosporine,2500.000000,2024-09-20,26,Pharma Inc.
+Oseltamivir,2600.000000,2025-06-25,27,HealthCorp
+Acyclovir,2700.000000,2023-10-15,28,MedSupply
+Risperidone,2800.000000,2024-07-10,29,Pharma Inc.
+Methotrexate,2900.000000,2025-04-20,30,HealthCorp
+Terbinafine,3000.000000,2023-12-05,31,MedSupply
+Iron,3100.000000,2024-08-25,32,Pharma Inc.
+Estrogen,3200.000000,2025-05-15,33,HealthCorp
+Vitamin D,3200.000000,2023-11-30,34,MedSupply
+Calcium,3400.000000,2024-09-10,35,Pharma Inc.
+Furosemide,3500.000000,2025-06-20,36,HealthCorp
+Diphenhydramine,3600.000000,2023-10-05,37,MedSupply
+Ciprofloxacin,3700.000000,2024-07-25,38,Pharma Inc.
+Naproxen,3800.000000,2025-04-10,39,HealthCorp
+Aspirin,3900.000000,2024-12-31,40,Pharma Inc.
+Ibuprofen,4000.000000,2025-06-30,41,HealthCorp
+Paracetamol,4100.000000,2023-11-15,42,MedSupply
+Amoxicillin,4200.000000,2024-01-20,43,Pharma Inc.
+Cetirizine,4300.000000,2025-03-10,44,HealthCorp
+Metformin,4400.000000,2024-09-25,45,Pharma Inc.
+Lisinopril,4500.000000,2025-12-05,46,HealthCorp
+Atorvastatin,4600.000000,2023-08-30,47,MedSupply
+Omeprazole,4700.000000,2024-07-15,48,Pharma Inc.
+Simvastatin,4800.000000,2025-02-20,49,HealthCorp
+Levothyroxine,4900.000000,2023-10-10,50,MedSupply
+Gabapentin,5000.000000,2024-11-05,51,Pharma Inc.
+Hydrochlorothiazide,5100.000000,2025-01-25,52,HealthCorp
+Amlodipine,5200.000000,2023-12-15,53,MedSupply
+Metoprolol,5300.000000,2024-03-30,54,Pharma Inc.
+Losartan,5400.000000,2025-04-10,55,HealthCorp
+Azithromycin,5500.000000,2023-09-20,56,MedSupply
+Albuterol,5600.000000,2024-06-05,57,Pharma Inc.
+Gabapentin,5700.000000,2025-07-15,58,HealthCorp
+Prednisone,5800.000000,2023-11-25,59,MedSupply
+Fluconazole,5900.000000,2024-10-20,60,Pharma Inc.
+Doxycycline,6000.000000,2025-05-30,61,HealthCorp
+Carbamazepine,6100.000000,2023-12-25,62,MedSupply
+Ketoconazole,6200.000000,2024-08-15,63,Pharma Inc.
+Ranitidine,6300.000000,2025-03-05,64,HealthCorp
+Tacrolimus,6400.000000,2023-11-10,65,MedSupply
+Cyclosporine,6500.000000,2024-09-20,66,Pharma Inc.
+Oseltamivir,6600.000000,2025-06-25,67,HealthCorp
+Acyclovir,6700.000000,2023-10-15,68,MedSupply
+Risperidone,6800.000000,2024-07-10,69,Pharma Inc.
+Methotrexate,6900.000000,2025-04-20,70,HealthCorp
+Terbinafine,7000.000000,2023-12-05,71,MedSupply
+Iron,7100.000000,2024-08-25,72,Pharma Inc.
+Estrogen,7200.000000,2025-05-15,73,HealthCorp
+Vitamin D,7300.000000,2023-11-30,74,MedSupply
+Calcium,7400.000000,2024-09-10,75,Pharma Inc.
+Furosemide,7500.000000,2025-06-20,76,HealthCorp
+Diphenhydramine,7600.000000,2023-10-05,77,MedSupply
+Ciprofloxacin,7700.000000,2024-07-25,78,Pharma Inc.
+Naproxen,7800.000000,2025-04-10,79,HealthCorp
+Acetaminophen,1000.000000,2022-12-31,80,Automatic Restock
+Calcium Carbonate,1000.000000,2022-12-31,81,Automatic Restock
+Loratadine,1000.000000,2022-12-31,82,Automatic Restock
